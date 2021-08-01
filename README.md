@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <!-- ![Arin's github stats](https://github-readme-stats.vercel.app/api?username=arinjain7&count_private=true&include_all_commits=true&theme=nightowl) -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavTinker" alt="raghavTinker" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arinjain7" alt="arinjain7" /> </p>
 
 
 <h1 align="center">Hi 👋, I'm Arin Jain</h1>
