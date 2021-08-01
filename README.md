@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+
+![Arin's github stats](https://github-readme-stats.vercel.app/api?username=arinjain7&count_private=true&include_all_commits=true&theme=nightowl)
+
 <h1 align="center">Hi 👋, I'm Arin Jain</h1>
 <h3 align="center">I am 2nd Year Student from Chitkara University,India</h3>
 
