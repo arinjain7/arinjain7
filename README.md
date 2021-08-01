@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 <h1 align="center">Hi 👋, I'm Arin Jain</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arinjain7&label=Profile%20views&color=0e75b6&style=flat" alt="arinjain7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arinjain7&label=Profile%20views&color=nightowl&style=flat" alt="arinjain7" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
